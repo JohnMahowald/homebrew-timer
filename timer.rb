@@ -4,7 +4,7 @@
 class Timer < Formula
   desc ""
   homepage ""
-  url "https://github.com/JohnMahowald/timer/archive/v1.0.1.tar.gz"
+  url "https://github.com/JohnMahowald/timer/archive/v1.0.2.tar.gz"
   # depends_on "cmake" => :build
 
   def install
